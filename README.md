@@ -22,3 +22,9 @@ El análisis se centra en responder preguntas críticas de negocio, incluyendo:
 | **Estadística** | NumPy | Agregación de datos y cálculos estadísticos necesarios para las métricas. |
 | **Visualización** | Matplotlib, Seaborn | Creación de gráficos de tendencias para métricas clave (visitas, pedidos, ROMI) a lo largo del tiempo y por fuente de adquisición/dispositivo. |
 | **Análisis Financiero** | Análisis de Cohortes | Metodología clave para rastrear el comportamiento del cliente y calcular la rentabilidad a lo largo del tiempo. |
+
+---
+
+## Visualizacion del proyecto
+
+* Para visualizar el proyecto de la mejor manera, abrir el archivo LVT-CAC-ROMI.ipynb que ejecutara el archivo en un jupyter notebook.
